@@ -1,0 +1,10 @@
+fastapi
+pickle-mixin
+pydantic
+scikit-learn
+uvicorn
+gunicorn == 19.9.0
+uvloop
+httptools
+numpy
+pandas
